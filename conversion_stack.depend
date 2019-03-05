@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551769732 source:f:\c_program\stack_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1551769732 source:f:\c_program\conversion_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
